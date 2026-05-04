@@ -26,7 +26,7 @@ Aşağıdaki tablo, 120 dakikalık bir yoğunluk simülasyonunda normal kasiyer 
 | 2 Kasiyer | 4.12 dk | %67 İyileşme |
 | 3 Kasiyer | 1.85 dk | %55 İyileşme |
 | 4 Kasiyer | 0.90 dk | %51 İyileşme |
-| 5 Kasiyer | 0.82 dk | %8  |
+| 5 Kasiyer | 0.82 dk | %8  (Doygunluk)  |
 
 ### 2. Kritik Bulgular (Darboğaz Analizi)
 - **Azalan Verimler Kanunu:** Kasiyer sayısını 1'den 2'ye çıkarmak bekleme süresini radikal bir şekilde düşürürken, 4'ten 5'e çıkarmak kayda değer bir fark yaratmamıştır. Bu, market için "Optimum Kasiyer Sayısı"nın 3 olduğunu kanıtlar.
