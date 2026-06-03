@@ -17,17 +17,14 @@ Sistem, müşteri akışını ve mağaza içi dinamikleri en gerçekçi şekilde
 
 ---
 
-## 🚀 Nasıl Çalıştırılır?
+## 🚀 Projeyi  Çalıştırma
 
-### 1. Google Colab'de Aç
-Aşağıdaki butona tıklayarak projeyi doğrudan tarayıcınız üzerinden çalıştırabilirsiniz:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OFHM8Eg_lUNqO0r2eqHFzfAgtp5W9qN1?usp=sharing)
-
-### 2. Sistemi Test Et
-* Colab açıldığında üst menüden **Çalışma Zamanı > Tümünü Çalıştır** (Runtime > Run All) seçeneğine tıklayın.
-* Ekranda beliren kontrol panelinden kaydırma çubuklarını ve açılır menüleri kullanarak senaryonuzu kurun.
-* Yeşil **"Sistemi Test Et (Run)"** butonuna basın — grafikler, tablolar ve anlık loglar saniyeler içinde üretilecektir!
+### Yerel Ortamda (VS Code / Jupyter) Çalıştırma
+Simülasyonun interaktif panellerini ve dinamik loglarını canlı olarak test etmek isterseniz:
+1. Sağ üstteki yeşil **`Code`** butonuna tıklayıp **`Download ZIP`** seçeneği ile bu depoyu bilgisayarınıza indirin.
+2. Klasöre çıkarttığınız `market_simulasyonu.ipynb` dosyasını **VS Code** veya **Jupyter Notebook** ortamında açın.
+3. Gerekli kütüphaneleri (`pip install simpy ipywidgets matplotlib seaborn pandas`) yükledikten sonra "Run All" (Tümünü Çalıştır) diyerek kontrol panelini aktifleştirebilirsiniz.
 
 ---
 
