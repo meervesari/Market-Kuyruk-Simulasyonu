@@ -22,7 +22,7 @@ Sistem, müşteri akışını ve mağaza içi dinamikleri en gerçekçi şekilde
 ### 1. Google Colab'de Aç
 Aşağıdaki butona tıklayarak projeyi doğrudan tarayıcınız üzerinden çalıştırabilirsiniz:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1OFHM8Eg_lUNqO0r2eqHFzfAgtp5W9qN1?usp=sharing])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OFHM8Eg_lUNqO0r2eqHFzfAgtp5W9qN1?usp=sharing)
 
 ### 2. Sistemi Test Et
 * Colab açıldığında üst menüden **Çalışma Zamanı > Tümünü Çalıştır** (Runtime > Run All) seçeneğine tıklayın.
