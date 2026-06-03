@@ -29,6 +29,9 @@ Simülasyonun interaktif panellerini ve dinamik loglarını canlı olarak test e
 ---
 
 ## 🎛️ Kullanıcı Arayüzü (Kontrol Paneli)
+Sistem yöneticileri aşağıdaki paneli kullanarak farklı personel senaryolarını saniyeler içinde test edebilir.
+
+![Kontrol Paneli](panel.png)
 
 | Kontrol | Açıklama | Aralık |
 | :--- | :--- | :--- |
@@ -42,8 +45,24 @@ Simülasyonun interaktif panellerini ve dinamik loglarını canlı olarak test e
 | **Özel Dönem** | Standart / Hafta sonu / Bayram | Açılır Menü |
 
 > ⚠️ **Not:** Herhangi bir kaynağı `0` yapmak o kasayı/reyonu tamamen kapatır. Sistem, müşteri yükünü otomatik olarak açık olan diğer birimlere dağıtır.
-
 ---
+## 📊 Simülasyon Çıktıları
+Sistem çalıştırıldığında yöneticisine 3 temel çıktı sunulur:
+
+### Bölüm 1 — Görsel Analiz (Grafikler)
+Kasa türlerine göre bekleme süreleri (mavi bar) ve reyon bazlı iç darboğaz analizleri (turuncu bar). Bekleme süreleri dinamik formatlıdır (sn/dk).
+
+![Grafikler](grafikler.png)
+
+### Bölüm 2 — Kapasite Performans Tablosu
+Seçilen senaryo altında, kasiyer sayısı 1'den 5'e kadar test edilerek sistemin optimum performans noktası otomatik olarak bulunur.
+
+![Performans Tablosu](tablo.png)
+
+### Bölüm 3 — Olay Akış Logları
+Gerçek hayatı yansıtacak şekilde her müşterinin markete giriş saati, ziyaret ettiği reyonlar ve kasadan çıkış anları kronolojik olarak listelenir.
+
+![Akış Logları](loglar.png)
 
 ## 📊 Simülasyon Çıktıları
 Butona her basıldığında sistem yöneticisine 3 temel çıktı sunulur:
