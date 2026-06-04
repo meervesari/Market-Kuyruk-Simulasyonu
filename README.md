@@ -50,7 +50,7 @@ Sistem yöneticileri aşağıdaki paneli kullanarak farklı personel senaryolar�
 Sistem çalıştırıldığında yöneticisine 3 temel çıktı sunulur:
 
 ### Bölüm 1 — Görsel Analiz (Grafikler)
-Kasa türlerine göre bekleme süreleri (mavi bar) ve reyon bazlı iç darboğaz analizleri (turuncu bar). Bekleme süreleri dinamik formatlıdır (sn/dk).
+Kasa türlerine göre bekleme süreleri  ve reyon bazlı iç darboğaz analizleri . Bekleme süreleri dinamik formatlıdır (sn/dk).
 
 ![Grafikler](grafikler.png)
 
